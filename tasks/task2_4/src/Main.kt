@@ -1,7 +1,7 @@
 // Task 2.4
 fun main() {
-	val hanna = 39
-	println(hanna)
-	hanna = 40
-	println(hanna)
+	val bread = 39
+	println(bread)
+	bread = 40
+	println(bread)
 }
