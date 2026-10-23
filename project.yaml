@@ -1,2 +1,9 @@
 modules:
   - portfolio/week1
+  - portfolio/week2/redact
+  - portfolio/week2/triangles
+  - portfolio/week3/median
+  - portfolio/week3/triangles
+  - portfolio/week4/to-do-list
+  - portfolio/week4/triangles
+  - portfolio/week5
