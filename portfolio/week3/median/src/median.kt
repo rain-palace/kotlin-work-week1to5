@@ -2,6 +2,10 @@
 val Int.isOdd: Boolean get() = this%2!=0
 
 fun median(listOfValues: List<Float>): Float {
+    if(listOfValues.size==0) {
+        throw IllegalArgumentException("list is empty")
+    }
+
     val valuesSorted=listOfValues.sorted()
     val middle=valuesSorted.size/2
 
